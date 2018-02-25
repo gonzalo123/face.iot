@@ -7,7 +7,7 @@ One of the landmark that I can obtain is the nose tip. Playing with this script 
 As well as I have a new iot device (one ESP32) I wanted to do something with it. For example control a servo (SG90) and move it from left to right depending on my face position.
 
 First we have the main python script. With this script I detect my face, the nose tip and the position of my face.
-Whit this position I will emit an event to a mqtt broker (a mosquitto server running on my laptop).
+With this position I will emit an event to a mqtt broker (a mosquitto server running on my laptop).
 
 ```python
 import face_recognition
