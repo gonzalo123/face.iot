@@ -273,4 +273,4 @@ void loop()
 
 Here a video with the working prototype in action
 
-https://www.youtube.com/watch?v=5WecMaVBF3U
+[![Opencv and esp32 experiment. Moving a servo with my face alignment](https://img.youtube.com/vi/5WecMaVBF3U/0.jpg)](https://www.youtube.com/watch?v=5WecMaVBF3U)
